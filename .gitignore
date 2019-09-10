@@ -1,0 +1,7 @@
+/*.cmake
+/*.DS_Store
+/.user
+/build
+/venv
+/.idea
+/CMakeFiles
