@@ -14,6 +14,14 @@ This project impliments a binary tree to guess an animal in twenty questions. It
 and will "learn" by adding to the `animal.txt` file everytime the user wins. 
 
 
-# Algorithms_TSP (python)
+# Algorithms TSP (python)
 This project solves the traveling salesman problem with the nearest neighbor approach and with the exahuastive approach. It then tests and times the 
 algorithms with either an input file or a with a random point generator. The requirement of this project was to prove the theoretical big O of each algorithm. 
+
+
+# Algorithms AlgoBowl Framework (C++)
+This is the framwork I set up for my algo bowl team. While the actual algorithm to solve the challenge problem is not implemented here, this framwork sets everything up. This includes a random input generator, appropriate file readers, and a verifier to check the solution against the input. 
+
+
+# Computer Organization MIPS projects (assembly)
+This folder contains some smaller assignments we had in Computer Organization written in assembly code.
